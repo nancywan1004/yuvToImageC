@@ -1,0 +1,12 @@
+# 工具链与二进制依赖（体积大，请自行按需安装）
+emsdk/
+wasm-cli/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 构建产物
+*.o
+*.obj
+
